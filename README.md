@@ -1,5 +1,5 @@
 # Digital-Signal-Processing-Homeworks
-Homeworks of the DSP elective lecture, which was given at IZTECH Electronics and Communication Engineering Department.
+Homeworks of the DSP elective course, which was given at IZTECH Electronics and Communication Engineering Department.
 
 -Homework 1-
 ------------
